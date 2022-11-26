@@ -1,4 +1,7 @@
 # hello
 
 # im gay
-Are you gay too?
+
+# are you gay too?
+
+# i think you are hehe
